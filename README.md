@@ -5,6 +5,8 @@ https://customsurgical.de/en/free-3d-model-for-customizing-a-virus-protection-ma
 
 Takes HME filters, and connected to snorkelling full face mask. 
 
+* PETG or PET filament
+
 ### We're currently testing:
 * 0.2 layer height, 40% infill
 * 0.2 layer height, 20% infill
