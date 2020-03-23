@@ -16,5 +16,6 @@ Takes HME filters, and connected to snorkelling full face mask.
 
 * Use Nitrile gloves.
 
+Clean with 70% isopropyl alchohol, so soap and water. Put in sealed bag.
 
-Should we clean with 70% isopropyl alchohol?
+
