@@ -12,5 +12,6 @@ https://customsurgical.de/en/free-3d-model-for-customizing-a-virus-protection-ma
 
 ### Steril Handling notes
 
-* Use Nitrile gloves
+* Use Nitrile gloves.
+
 Should we clean with 70% isopropyl alchohol?
