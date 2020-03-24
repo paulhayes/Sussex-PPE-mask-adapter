@@ -17,7 +17,7 @@ Changes from the original :
 
 * PETG or PET filament
 
-* 0.2 layer height, 20% infill (we used Gyroid but any fill pattern will be fine
+* 0.2 layer height, 20% infill (we used gyroid but any infill pattern will probably be fine)
 * 6 perimeters - this is important as the clip needs to be solid
 * 5 solid layers bottom
 * Orientation - print so the circular narrow section is on the bottom, clip at the top
