@@ -1,5 +1,5 @@
 # PPE Mask 
-Takes HME filters, and connected to snorkelling full face mask. 
+An adaptor that enables the addition of an HME filter to a widely available snorkelling full face mask. 
 
 Creators of adaptor:
 https://customsurgical.de/en/free-3d-model-for-customizing-a-virus-protection-mask/
