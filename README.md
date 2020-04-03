@@ -27,6 +27,12 @@ Leukathea version (chinese snorkel):
 * 5 solid layers bottom
 * Orientation - print so the circular narrow section is on the bottom, clip at the top
 
+Use vaseline to make the seals airtight. 
+
+# SAFETY NOTES
+
+In our testing, we found there to be some inconsistency as to whether the front valve lets in air. You need to do your own testing on your masks. More information here : https://docs.google.com/document/d/1C-w77MgJVmBnwxqWTOj560orCjCVPEXkqCZU_f2qz8c/edit
+
 ### Steril Handling notes
 
 * Use Nitrile gloves.
