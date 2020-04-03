@@ -27,7 +27,7 @@ Leukathea version (chinese snorkel):
 * 5 solid layers bottom
 * Orientation - print so the circular narrow section is on the bottom, clip at the top
 
-Use vaseline to make the seals airtight. 
+Use vaseline to make the seals airtight. Note that the version information is etched onto the model to be an aid when slicing; it is not deep enough to be visible when printed (unless your 3D Printer is high resolution). 
 
 # SAFETY NOTES
 
