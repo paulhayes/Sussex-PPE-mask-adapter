@@ -50,4 +50,8 @@ In our testing, we found there to be some inconsistency as to whether the front 
 * Use Nitrile gloves.
 * Clean with 70% isopropyl alcohol, or soap and water. Put in sealed bag.
 
+### FRONT FACE FILTER ADAPTOR
+
+We have also designed an experimental adaptor for attching to the front of the mask. See the sub-folder *SnorkelFrontAdaptor* for more information. 
+
 
