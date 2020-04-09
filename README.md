@@ -54,4 +54,6 @@ In our testing, we found there to be some inconsistency as to whether the front 
 
 We have also designed an experimental adaptor for attching to the front of the mask. See the sub-folder *SnorkelFrontAdaptor* for more information. 
 
+![Front face filter worn](https://github.com/paulhayes/Sussex-PPE-mask-adapter/blob/master/SnorkelFrontAdaptor/images/IMG_2062.jpg)
+
 
